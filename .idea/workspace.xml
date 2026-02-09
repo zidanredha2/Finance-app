@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06340f1-efe9-45f6-8134-4d3082861e22" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a06340f1-efe9-45f6-8134-4d3082861e22" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +60,12 @@
     "last_opened_file_path": "C:/Users/Redha Zidan/Desktop/Projects/finance"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Redha Zidan\Desktop\Projects\finance" />
+      <recent name="C:\Users\Redha Zidan\Desktop\Projects\finance\finance-backend" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a06340f1-efe9-45f6-8134-4d3082861e22" name="Changes" comment="" />
